@@ -1,0 +1,6 @@
+{
+  "name": "SafeCampus AI",
+  "description": "A comprehensive cybersecurity awareness and education platform for students, families, and senior citizens featuring AI scam analysis, structured lessons, and emergency resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
